@@ -1,0 +1,56 @@
+name: flutter_app
+description: A carppoling app where you can find and search for rides
+
+version: 0.5.0
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  datetime_picker_formfield: ^1.0.0
+  google_maps_flutter: ^0.5.26+4
+  geolocator: ^5.0.0
+  search_map_place: ^0.3.0
+  flutter_polyline_points: ^0.1.0
+  google_fonts: ^1.0.0
+  firebase_core: "^0.7.0"
+  firebase_auth: "^0.20.1"
+  cloud_firestore: "^0.16.0+1"
+  flutter_spinkit: ^4.1.2+1
+  geoflutterfire: ^2.1.0
+  geocoder: ^0.2.1
+  fluttertoast: ^4.0.0
+  flutter_svg: ^0.17.3+1
+  flutter_rating_bar: ^4.0.0
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: "^0.7.3"
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/login_icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/login_icon.png
+    - assets/map_style.txt
+    - assets/images/check_img.png
+
+  fonts:
+    - family: TitleFont
+      fonts:
+        - asset: assets/Righteous-Regular.ttf
+
+    - family: AppFont
+      fonts:
+        - asset: assets/Nunito-Regular.ttf

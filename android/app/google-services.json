@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1091844209238",
+    "project_id": "the-a3codes",
+    "storage_bucket": "the-a3codes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091844209238:android:c607a85be29b5f357a59f7",
+        "android_client_info": {
+          "package_name": "gr.sharemyride.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091844209238-s110uhbc1g2rgrurj9lrsdu95dbgpqnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gr.sharemyride.flutter_app",
+            "certificate_hash": "f064620ddb097f66337d41e38253275647493e93"
+          }
+        },
+        {
+          "client_id": "1091844209238-c2csdl84gpo59ol099c3lhoebbv4nen4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0J5BlG6WDax1nZRj_jOUjeAAjXTpEp2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091844209238-c2csdl84gpo59ol099c3lhoebbv4nen4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
